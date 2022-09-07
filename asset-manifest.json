@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "./static/css/main.80df5bb3.css",
+    "main.js": "./static/js/main.5aaa161c.js",
+    "static/js/787.be55e6d0.chunk.js": "./static/js/787.be55e6d0.chunk.js",
+    "static/media/color-sharp2.png": "./static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-image.png": "./static/media/header-image.7c953b1dab3ed95a5aeb.png",
+    "static/media/PokeMarket.png": "./static/media/PokeMarket.d0a81d74f1be2c043387.png",
+    "static/media/background.jpg": "./static/media/background.11e57e0750ed1f1f1161.jpg",
+    "static/media/ProjetoSpa.png": "./static/media/ProjetoSpa.828e518ab502c467d69c.png",
+    "static/media/DevHelper.png": "./static/media/DevHelper.ed66a71f57b3cbb9cf8a.png",
+    "static/media/React-icon.svg.png": "./static/media/React-icon.svg.8a6fc0a24a800d1e0f4a.png",
+    "static/media/CentraNo2-Bold.ttf": "./static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "./static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "./static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "./static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/Scrum-icon.png": "./static/media/Scrum-icon.7e80c2673da7fa98f7a9.png",
+    "static/media/logo-javascript.png": "./static/media/logo-javascript.7f8751632b42a9932c15.png",
+    "static/media/Flappy.png": "./static/media/Flappy.be19932f2b2a055197ca.png",
+    "static/media/bootstrap.png": "./static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/revicons.eot": "./static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "./static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "./static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-iconC.svg": "./static/media/nav-iconC.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/logo.svg": "./static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/nav-iconA.svg": "./static/media/nav-iconA.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "./index.html",
+    "main.80df5bb3.css.map": "./static/css/main.80df5bb3.css.map",
+    "main.5aaa161c.js.map": "./static/js/main.5aaa161c.js.map",
+    "787.be55e6d0.chunk.js.map": "./static/js/787.be55e6d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80df5bb3.css",
+    "static/js/main.5aaa161c.js"
+  ]
+}
